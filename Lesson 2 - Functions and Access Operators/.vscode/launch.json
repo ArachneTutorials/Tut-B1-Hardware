@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - AssignmentOperators",
+      "request": "launch",
+      "mainClass": "lesson.functions.examples.AssignmentOperators",
+      "projectName": "Lesson 2 - Functions and Access Operators"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TestSection2",
       "request": "launch",
       "mainClass": "lesson.functions.tasks.TestSection2",
