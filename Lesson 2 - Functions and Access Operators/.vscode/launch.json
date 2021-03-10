@@ -6,45 +6,10 @@
   "configurations": [
     {
       "type": "java",
-      "name": "CodeLens (Launch) - AssignmentOperators",
-      "request": "launch",
-      "mainClass": "lesson.functions.examples.AssignmentOperators",
-      "projectName": "Lesson 2 - Functions and Access Operators"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - TestSection2",
-      "request": "launch",
-      "mainClass": "lesson.functions.tasks.TestSection2",
-      "projectName": "Lesson 2 - Functions and Access Operators"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - Sandbox",
-      "request": "launch",
-      "mainClass": "lesson.functions.tasks.Sandbox",
-      "projectName": "Lesson 2 - Functions and Access Operators"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - DotOperator",
-      "request": "launch",
-      "mainClass": "lesson.functions.examples.DotOperator",
-      "projectName": "Lesson 2 - Functions and Access Operators"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - TestSection1",
+      "name": "Launch TestSection1",
       "request": "launch",
       "mainClass": "lesson.functions.tasks.TestSection1",
       "projectName": "Lesson 2 - Functions and Access Operators"
-    },
-    {
-      "type": "java",
-      "name": "CodeLens (Launch) - Primitives",
-      "request": "launch",
-      "mainClass": "lesson.datatypes.Primitives",
-      "projectName": "Lesson 1 - Datatypes and Variables"
     },
     {
       "type": "wpilib",

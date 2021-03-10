@@ -13,7 +13,7 @@ public class TestSection1 {
         System.out.println(result == target ? "Test passed" : "Test failed");
         
         System.out.println("Testing Task 2...");
-        result = tasks.cube(7.5);
+        // result = tasks.cube(7.5);
         target = Math.pow(7.5, 3);
         System.out.println("Intended output is " + target + ", your output is " + result);
         System.out.println(result == target ? "Test passed" : "Test failed");
